@@ -1,0 +1,11 @@
+{
+	"students": {
+		"u1":{"matric":121111, "name":"Kayode"},
+		"u2":{"matric":121112, "name":"Sule"},
+		"u3":{"matric":121113, "name":"Doyin"},
+		"u4":{"matric":121114, "name":"Wale"},
+		"u5":{"matric":121115, "name":"Amatare"},
+		"u6":{"matric":121116, "name":"Ugonna"},
+		"u7":{"matric":121117, "name":"Kemi"}
+	}
+}

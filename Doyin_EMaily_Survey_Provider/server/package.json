@@ -1,0 +1,32 @@
+{
+  "name": "doyinmaily",
+  "version": "1.0.0",
+  "description": "This app Allows Subscribers to be able to send survey form to their customers via email and view reports of respondents and otherwise. Uses GoogleOauth for authenticating subscribers and MongoDB for backend with Express Server and React Redux forms for front-end",
+  "main": "index.js",
+  "engine": {
+    "node": "10.15.3",
+    "npm": "6.4.1"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "Survey",
+    "Express",
+    "Server",
+    "GoogleOAuth20",
+    "MongoDB",
+    "ReactJS",
+    "Project"
+  ],
+  "author": "Adeyemi Adedoyin Simeon",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.6.3",
+    "nodemon": "^1.19.1",
+    "passport": "^0.4.0",
+    "passport-google-oauth20": "^2.0.0"
+  }
+}
